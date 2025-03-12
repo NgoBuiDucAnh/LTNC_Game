@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741588954 source:d:\ltnc_game\sdl\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+
