@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746554482 source:d:\ltnc_game\sdl\menu.h\menu.cpp
+	<SDL.h>
+	<SDL_image.h>
+

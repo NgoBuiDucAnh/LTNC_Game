@@ -1,7 +1,18 @@
 # depslib dependency file v1.0
-1741588954 source:d:\ltnc_game\sdl\main.cpp
+1747204514 source:d:\ltnc_game\sdl\main.cpp
 	<SDL.h>
 	<SDL_image.h>
 	<iostream>
-	<vector>
+	<cstdlib>
+	<ctime>
+	<SDL_mixer.h>
+
+1738962281 c:\users\admin\downloads\sdl2_mixer-devel-2.8.1-mingw\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
 

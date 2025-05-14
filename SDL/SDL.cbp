@@ -31,7 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="C:/Users/Admin/Downloads/SDL2_mixer-devel-2.8.1-mingw/SDL2_mixer-2.8.1/x86_64-w64-mingw32/include/SDL2" />
 		</Compiler>
+		<Linker>
+			<Add directory="C:/Users/Admin/Downloads/SDL2_mixer-devel-2.8.1-mingw/SDL2_mixer-2.8.1/x86_64-w64-mingw32/lib" />
+		</Linker>
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
